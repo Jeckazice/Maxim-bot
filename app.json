@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp"
   ],
-  "repository": "https://github.com/GlobalTechInfo/ULTRA-MD",
+  "repository": "https://github.com/Jeckazice/Maxim-bot",
   "stack": "container",
   "env": {
     "OWNERS": {
